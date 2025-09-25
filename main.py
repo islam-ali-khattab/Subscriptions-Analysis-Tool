@@ -649,7 +649,7 @@ def create_financial_tab(filtered_df):
         )
         
         sample_conversion = filtered_df[['currency', 'paid_amount', 'paid_amount_egp']].groupby("currency").sum().sort_values(by="paid_amount_egp", ascending=False)
-        st.write(sample_conversion, use_container_width=True)
+        st.dataframe(sample_conversion, use_container_width=True)
         
     with col2:
         fig = px.pie(
