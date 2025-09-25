@@ -1,6 +1,6 @@
 # 📊 Subscription Analytics Dashboard  
 
-I built an interactive **Subscription Analytics Dashboard** using **Python, Streamlit, and Plotly** to analyze subscription performance, customer behavior, and financial trends.  
+Interactive **Subscription Analytics Dashboard** using **Python, Streamlit, and Plotly** to analyze subscription performance, customer behavior, and financial trends.  
 
 🔗 **Live Project / GitHub Link:** [Project Link Here](https://your-link.com)  
 
